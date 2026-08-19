@@ -56,9 +56,9 @@
 <div align="center">
   <h3 style="color: #7aa2f7; margin-bottom: 15px;">Contribution Snake</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedA-gif/ahmedA-gif/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedA-gif/ahmedA-gif/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ahmedA-gif/ahmedA-gif/output/github-snake.svg" width="80%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedA-gif/ahmedA-gif/main/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedA-gif/ahmedA-gif/main/dist/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ahmedA-gif/ahmedA-gif/main/dist/github-snake.svg" width="80%" />
   </picture>
 </div>
 
