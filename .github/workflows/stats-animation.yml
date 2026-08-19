@@ -1,0 +1,30 @@
+name: Generate GitHub Stats Animation
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Stats Animation
+        uses: jwenjian/github-stats-cards@v1.0
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ahmedA-gif
+          THEME: synthwave
+          TITLE_COLOR: 00f3ff
+          ICON_COLOR: 00f3ff
+          TEXT_COLOR: ffffff
+          BG_COLOR: 0d1117
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Update Stats Animation" || exit 0
+          git push
