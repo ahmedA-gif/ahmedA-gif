@@ -1,174 +1,218 @@
-<!-- JARVIS ANIMATED WAVE HEADER -->
+<!-- MODERN ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=A.H.M.E.D%20//%20J.A.R.V.I.S%20HUD&fontSize=38&fontColor=00f3ff&animation=twinkle&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=AHMED&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=40" width="100%" />
 </div>
 
-<!-- GLITCH EFFECT NAME -->
+<!-- TYPING ANIMATION SUBTITLE -->
 <div align="center">
-  <h1>
-    <span style="color: #00f3ff; text-shadow: 0 0 10px #00f3ff, 0 0 20px #00f3ff, 0 0 40px #00f3ff;">
-      <glitch-text>AHMED</glitch-text>
-    </span>
-  </h1>
-</div>
-
-<!-- TERMINAL / JARVIS SYSTEM STATUS -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F3FF&center=true&vCenter=true&width=700&lines=%3E+SYSTEM+INITIALIZED...+WELCOME+OPERATOR;%3E+USER_ID%3A+ahmedA-gif+%7C+ACCESS_LEVEL%3A+UNLIMITED;%3E+PRIMARY_STACK%3A+FULL-STACK+%2B+AI+SYSTEMS;%3E+STATUS%3A+BUILDING+NEXT-GEN+SOFTWARE...;%3E+CORE_TEMP%3A+NOMINAL+%7C+UPTIME%3A+99.99%25" alt="JARVIS Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58a6ff&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Open+Source+Contributor;AI+%26+ML+Enthusiast;Building+Future+Software" alt="Typing Animation" />
 </div>
 
 <br/>
 
-<!-- ANIMATED STATUS BAR -->
+<!-- PROFILE Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=github&logoColor=white&animation=pulse" alt="Status" />
-  <img src="https://img.shields.io/badge/ACCESS-LEVEL-ULTRA_VIOLATE-ff00ff?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Access" />
-  <img src="https://img.shields.io/badge/CLEARANCE-OMEGA-ff6600?style=for-the-badge&logo=security&logoColor=white" alt="Clearance" />
+  <img src="https://img.shields.io/badge/🎓-Student-4CAF50?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Student" />
+  <img src="https://img.shields.io/badge/💻-Full%20Stack-2196F3?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/🤖-AI%20%26%20ML-9C27B0?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI ML" />
+  <img src="https://img.shields.io/badge/🌟-Open%20Source-FF9800?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
 </div>
 
 <br/>
 
-<!-- SYSTEM METRICS HUD -->
+<!-- GITHUB STATS -->
 <table align="center" width="100%" style="border: none;">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ahmedA-gif&show_icons=true&theme=synthwave&hide_border=true&title_color=00f3ff&icon_color=00f3ff&text_color=ffffff&bg_color=0d1117" width="410" alt="JARVIS Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ahmedA-gif&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="400" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedA-gif&theme=synthwave&hide_border=true&background=0D1117&ring=00F3FF&fire=00F3FF&currStreakNum=00F3FF" width="410" alt="Commit Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedA-gif&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9" width="400" alt="Commit Streak" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- TOP LANGUAGES HUD -->
+<!-- TOP LANGUAGES -->
 <div align="center">
-  <h3 style="color: #00f3ff;">
-    <span style="text-shadow: 0 0 10px #00f3ff;">&#9632;</span> CORE LANGUAGE MODULES
-  </h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedA-gif&layout=compact&theme=synthwave&hide_border=true&title_color=00f3ff&text_color=00f3ff&bg_color=0d1117&langs_count=8" width="400" alt="Top Languages" />
+  <h3 style="color: #58a6ff; margin-bottom: 10px;">Languages & Frameworks</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedA-gif&layout=compact&theme=dark&hide_border=true&title_color=58a6ff&text_color=58a6ff&bg_color=0d1117&langs_count=8" width="350" alt="Top Languages" />
 </div>
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
+<!-- TECH STACK -->
 <div align="center">
-  <h3 style="color: #00f3ff;">
-    <span style="text-shadow: 0 0 10px #00f3ff;">&#128013;</span> CONTRIBUTION SNAKE
-  </h3>
-  <img src="./dist/github-snake.svg" alt="Snake Animation" width="80%" />
-</div>
-
-<br/>
-
-<!-- 3D HOLOGRAPHIC CONTRIBUTION GRAPH -->
-<h3 align="center" style="color: #00f3ff;">
-  <span style="text-shadow: 0 0 10px #00f3ff;">&#128225;</span> // 3D HOLOGRAPHIC CONTRIBUTION GRID
-</h3>
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Holographic Contribution Graph" width="100%" />
-</div>
-
-<br/>
-
-<!-- PRO CODER ACTIVITY GRAPH -->
-<h3 align="center" style="color: #00f3ff;">
-  <span style="text-shadow: 0 0 10px #00f3ff;">&#9889;</span> // REAL-TIME ACTIVITY METRICS
-</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedA-gif&theme=react-dark&bg_color=0d1117&title_color=00f3ff&line=00f3ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<!-- TECH ARSENAL (GLOWING ICONS) -->
-<h3 align="center" style="color: #00f3ff;">
-  <span style="text-shadow: 0 0 10px #00f3ff;">&#128737;</span> // TECH ARSENAL & FRAMEWORKS
-</h3>
-<div align="center">
+  <h3 style="color: #58a6ff; margin-bottom: 15px;">Tech Arsenal</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,cpp,docker,git,github,vscode,linux,tailwind,postgres,mongodb&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,cpp,docker,git,github,vscode,linux,tailwind,postgres,mongodb&perline=6" alt="Tech Stack" />
+  </a>
+</div>
+
+<br/>
+
+<!-- 3D CONTRIBUTION GRAPH -->
+<div align="center">
+  <h3 style="color: #58a6ff; margin-bottom: 15px;">3D Contribution Landscape</h3>
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <h3 style="color: #58a6ff; margin-bottom: 15px;">Activity Overview</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedA-gif&theme=dark&bg_color=0d1117&title_color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<!-- FEATURED REPOSITORIES -->
+<div align="center">
+  <h3 style="color: #58a6ff; margin-bottom: 20px;">Featured Projects</h3>
+</div>
+
+<table align="center" width="90%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ahmedA-gif/stegosentinel">
+        <b>StegoSentinel</b>
+      </a>
+      <br/>
+      <sub>Steganography Detection Tool</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ahmedA-gif/Face-recognition-ubunto">
+        <b>Face Recognition Ubuntu</b>
+      </a>
+      <br/>
+      <sub>AI-Powered Face Recognition</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ahmedA-gif/guardian-ai-fix">
+        <b>Guardian AI Fix</b>
+      </a>
+      <br/>
+      <sub>AI Safety & Optimization</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ahmedA-gif/e-commerce-website">
+        <b>E-Commerce Website</b>
+      </a>
+      <br/>
+      <sub>Full Stack E-Commerce</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ahmedA-gif/attendance-system">
+        <b>Attendance System</b>
+      </a>
+      <br/>
+      <sub>Smart Attendance Tracker</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ahmedA-gif/LOGITBOOST-ALGORITHM-ISSUE-RESOLVED">
+        <b>LogitBoost Algorithm</b>
+      </a>
+      <br/>
+      <sub>Machine Learning Project</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- CONTRIBUTORS SHOWCASE -->
+<div align="center">
+  <h3 style="color: #58a6ff; margin-bottom: 20px;">Top Contributors</h3>
+  <p style="color: #8b949e; font-size: 14px; margin-bottom: 15px;">Special thanks to all contributors who helped build these projects</p>
+</div>
+
+<!-- StegoSentinel Contributors -->
+<div align="center">
+  <h4 style="color: #c9d1d9; margin-bottom: 10px;">
+    <a href="https://github.com/ahmedA-gif/stegosentinel/graphs/contributors" style="color: #58a6ff; text-decoration: none;">
+      StegoSentinel Contributors
+    </a>
+  </h4>
+  <a href="https://github.com/ahmedA-gif/stegosentinel/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=ahmedA-gif/stegosentinel" alt="StegoSentinel Contributors" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Face Recognition Contributors -->
+<div align="center">
+  <h4 style="color: #c9d1d9; margin-bottom: 10px;">
+    <a href="https://github.com/ahmedA-gif/Face-recognition-ubunto/graphs/contributors" style="color: #58a6ff; text-decoration: none;">
+      Face Recognition Contributors
+    </a>
+  </h4>
+  <a href="https://github.com/ahmedA-gif/Face-recognition-ubunto/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=ahmedA-gif/Face-recognition-ubunto" alt="Face Recognition Contributors" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Guardian AI Contributors -->
+<div align="center">
+  <h4 style="color: #c9d1d9; margin-bottom: 10px;">
+    <a href="https://github.com/ahmedA-gif/guardian-ai-fix/graphs/contributors" style="color: #58a6ff; text-decoration: none;">
+      Guardian AI Contributors
+    </a>
+  </h4>
+  <a href="https://github.com/ahmedA-gif/guardian-ai-fix/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=ahmedA-gif/guardian-ai-fix" alt="Guardian AI Contributors" />
   </a>
 </div>
 
 <br/>
 
 <!-- GITHUB TROPHIES -->
-<h3 align="center" style="color: #00f3ff;">
-  <span style="text-shadow: 0 0 10px #00f3ff;">&#127942;</span> // ACHIEVEMENTS UNLOCKED
-</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedA-gif&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=10" width="80%" alt="Trophies" />
+  <h3 style="color: #58a6ff; margin-bottom: 15px;">Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedA-gif&theme=dark&no-frame=true&no-bg=false&column=7&margin-w=10" width="80%" alt="Trophies" />
 </div>
 
 <br/>
 
 <!-- RANDOM DEV QUOTE -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" width="80%" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" alt="Dev Quote" />
 </div>
 
 <br/>
-
-<!-- PINNED REPOS -->
-<h3 align="center" style="color: #00f3ff;">
-  <span style="text-shadow: 0 0 10px #00f3ff;">&#128193;</span> // MISSION CRITICAL PROJECTS
-</h3>
-<div align="center">
-  <a href="https://github.com/ahmedA-gif?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmedA-gif&show_icons=true&theme=synthwave&hide_border=true&title_color=00f3ff&icon_color=00f3ff&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true&show=reviews" width="80%" alt="All Repos" />
-  </a>
-</div>
-
-<br/>
-
-<!-- CONTRIBUTION SNAPSHOT -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedA-gif&bg_color=0d1117&color=00f3ff&line=00f3ff&point=ffffff&area_color=00f3ff&area=true&hide_border=true&custom_title=CONTRIBUTION%20SNAPSHOT" width="80%" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<!-- FOOTER SCANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=footer&text=JARVIS%20CORE%20v4.0.2%20%E2%80%A2%20SYSTEM%20ONLINE%20%E2%80%A2%20ALL%20SYSTEMS%20NOMINAL&fontSize=14&fontColor=00f3ff" width="100%" />
-</div>
 
 <!-- VISITOR COUNTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedA-gif&color=00f3ff&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedA-gif&color=58a6ff&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Views" />
 </div>
 
-<!-- GITHUB STATS CARDS -->
+<br/>
+
+<!-- CONNECT -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedA-gif&theme=synthwave&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&line_height=18&title_color=00f3ff&icon_color=00f3ff&text_color=ffffff&bg_color=0d1117" width="49%" alt="Stats Card" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedA-gif&theme=synthwave&hide_border=true&background=0D1117&ring=00F3FF&fire=00F3FF&currStreakNum=00F3FF&sideNums=00f3ff&border=0d1117" width="49%" alt="Streak Stats" />
+  <h3 style="color: #58a6ff; margin-bottom: 15px;">Let's Connect</h3>
+  <a href="https://github.com/ahmedA-gif">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:ahmed@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/ahmedA-gif">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
-<!-- GITHUB TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedA-gif&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=10" width="80%" alt="Trophies" />
-</div>
-
-<!-- RANDOM DEV QUOTE -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" width="80%" alt="Dev Quote" />
-</div>
+<br/>
 
 <!-- FOOTER -->
 <div align="center">
-  <br/>
-  <p>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8416-0357c1462e77.gif" width="100%" alt="Divider" />
-  </p>
-  <p>
-    <span style="color: #00f3ff; font-family: 'Courier New', monospace; font-size: 12px;">
-      &#9608;&#9608;&#9608;&#9608; JARVIS CORE v4.0.2 &#9608;&#9608;&#9608;&#9608;<br/>
-      All Systems Nominal | Uptime: 99.99% | Status: ONLINE
-    </span>
-  </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ahmedA-gif&color=00f3ff&style=flat-square&label=PROFILE+VISITORS" alt="Visitor Count" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=30&section=footer&text=Made%20with%20%E2%9D%A4%20by%20Ahmed&fontSize=12&fontColor=8b949e" width="100%" />
 </div>
